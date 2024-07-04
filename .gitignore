@@ -1,0 +1,9 @@
+*.csv
+*.pkl
+*.yml
+cpd_data/*
+model_weights/*
+test/*
+sequences/*
+*.pth
+*.log
